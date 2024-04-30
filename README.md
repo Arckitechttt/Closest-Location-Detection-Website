@@ -10,3 +10,5 @@ To ensure the company's privacy, the previously mentioned "Company's Branches" w
 4. Gedung Pertunjukan Wayang Orang Bharata -- -6.172181694425004, 106.84094195302518
 
 For instance, if you input the location data for the **National Monument** on the HTML form in the website, with a **Latitude** coordinate of **-6.175215683888003** and a **Longitude** coordinate of **106.82712974688135**, the website will identify the closest location as the **National Museum of Indonesia**, located approximately **0.62 kilometers** away by the Haversine Formula method.
+
+Moreover, feel free to input location data situated near the listed "Company's Branches" locations mentioned above.
