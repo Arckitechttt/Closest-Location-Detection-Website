@@ -1,12 +1,14 @@
 # Closest Location Detection Website
 Developed a website (for demonstration purposes only) capable of identifying the closest (nearest) branch of an **X Company** (the company doesn't intend its name to be displayed here) based on a specific inputted location.
 
-**Requirements :**
+<h3><b>Requirements</b></h3>
+
 1. Sends the inputted location data to the database of the closest (nearest) "Company's Branch".
 2. The available database capacity of the closest (nearest) "Company's Branch" must be less than 35 entries to receive the inputted location data.
 3. The website must be developed using HTML, CSS, and JavaScript only.
 
-**Methods :**
+<h3><b>Methods</b></h3>
+
 1. **Haversine Formula** method was used to calculate distances between all of the company's branches to a specific inputted location on the HTML form.
 2. The website was developed using HTML, CSS, and JavaScript.
 
@@ -21,9 +23,7 @@ Developed a website (for demonstration purposes only) capable of identifying the
 
 ---
 
-<p align="center">
-  <b>Further Informations</b>
-</p>
+<h3><b>Further Informations</b></h3>
 
 To ensure the company's privacy, the previously mentioned "Company's Branches" will now be denoted by the following list of locations: (assume the list of locations below represents the branches of the company)
 1. National Museum of Indonesia -- -6.176363051631948, 106.82153088532345
@@ -37,5 +37,6 @@ Moreover, feel free to input location data situated near the listed "Company's B
 
 ---
 
-**Reference :**
+<h3><b>Reference</b></h3>
+
 1. P. Dauni, M. D. Firdaus, R. Asfariani, M. I. N. Saputra, A. A. Hidayat, and W. B. Zulfikar, “Implementation of Haversine formula for school location tracking,” Journal of Physics: Conference Series, vol. 1402, no. 7, p. 077028, Dec. 2019, doi: https://doi.org/10.1088/1742-6596/1402/7/077028.
