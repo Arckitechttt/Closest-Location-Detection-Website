@@ -25,7 +25,7 @@ Developed a website (for demonstration purposes only) capable of identifying the
 
 <h3><b>Further Informations</b></h3>
 
-To ensure the company's privacy, the previously mentioned "Company's Branches" will now be denoted by the following list of locations: (assume the list of locations below represents the branches of the company)
+To ensure the company's privacy, the previously mentioned "Company's Branches" is denoted by the following list of locations in this website : (assume the list of locations below represents the branches of the company)
 1. National Museum of Indonesia -- -6.176363051631948, 106.82153088532345
 2. Central Jakarta Mayor Office -- -6.173024407925739, 106.81903106649357
 3. Juanda Station -- -6.166533478050184, 106.83047021360103
